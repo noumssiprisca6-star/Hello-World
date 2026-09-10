@@ -5,3 +5,4 @@ int main (){
     std::cout<<n * 2;
     return 0;
 }
+
